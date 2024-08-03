@@ -1,0 +1,14 @@
+footer {
+       display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4caf50; /* Color de fondo del footer */
+    color: #fff;
+    padding: 20px 0; }
+    .footer-content {
+    max-width: 800px; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center;
+    
+     }
